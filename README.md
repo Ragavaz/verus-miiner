@@ -1,0 +1,2 @@
+# verus-miiner
+tste
